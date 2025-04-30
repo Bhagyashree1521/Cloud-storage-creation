@@ -26,5 +26,7 @@ And to upload example files I clicked on upload files or folders and thus my fli
 
 # PICTURES OF THE OUTPUT 
 
+![Image](https://github.com/user-attachments/assets/02c32aef-21b1-4f7c-9175-257b1386cc1e)
+
 
 
